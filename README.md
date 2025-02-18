@@ -1,60 +1,49 @@
-## Hi there! 👋 I'm Farouk Khaled
+## Hey there! 👋 I'm Farouk Khaled
 
-I'm a **Full-Stack Developer** specializing in the **MERN stack** and **React Native**. I love building modern, scalable web and mobile applications. With a passion for clean code and efficient architectures, I continuously strive to improve my skills and stay up-to-date with the latest technologies.
+🚀 **Full-Stack Developer | MERN | React Native | Java**
 
-###
+I love crafting modern, scalable, and efficient web and mobile applications. Passionate about clean code, performance optimization, and exploring the latest technologies to build seamless digital experiences.
+
+---
+
+### 🛠️ Tech Stack & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,java,spring,html,css,bootstrap,tailwind,git,github,docker,materialui,c,cpp" />
+</div>
+<div align="right">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="80" alt="Coding GIF" />
+</div>
+  
+---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarouqKhaled17&show_icons=true&include_all_commits=true&count_private=true&&theme=cobalt"
- height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarouqKhaled17&layout=compact&langs_count=6&theme=cobalt" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FarouqKhaled17&show_icons=true&count_private=true&theme=radical" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarouqKhaled17&theme=radical" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarouqKhaled17&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </div>
 
+---
 
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-</div>
-
-### 🌍 Connect with Me
-
-<div align="left">
+### 🌍 Let's Connect
+<div align="center">
   <a href="https://www.linkedin.com/in/farouk-khaled-532a08175/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:faroukkhaled45@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/FarouqKhaled17" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
-###
+---
+
+### 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-###
