@@ -6,7 +6,7 @@ I love crafting modern, scalable, and efficient web and mobile applications. Pas
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,java,spring,html,css,bootstrap,tailwind,git,github,docker,materialui,c,cpp" />
 </div>
@@ -16,7 +16,7 @@ I love crafting modern, scalable, and efficient web and mobile applications. Pas
   
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FarouqKhaled17&show_icons=true&count_private=true&theme=radical" height="150" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarouqKhaled17&theme=radical" height="150" alt="GitHub Streak" />
@@ -25,7 +25,7 @@ I love crafting modern, scalable, and efficient web and mobile applications. Pas
 
 ---
 
-### 🌍 Let's Connect
+## 🌍 Let's Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/farouk-khaled-532a08175/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -40,7 +40,7 @@ I love crafting modern, scalable, and efficient web and mobile applications. Pas
 
 ---
 
-### 🐍 Contribution Graph
+## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
