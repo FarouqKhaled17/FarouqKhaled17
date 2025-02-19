@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm Farouk Khaled
+# Hey there! 👋 I'm Farouk Khaled
 
 🚀 **Full-Stack Developer | MERN | React Native | Java**
 
