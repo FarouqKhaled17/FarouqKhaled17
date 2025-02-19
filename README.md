@@ -11,7 +11,7 @@ I love crafting modern, scalable, and efficient web and mobile applications. Pas
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,java,spring,html,css,bootstrap,tailwind,git,github,docker,materialui,c,cpp" />
 </div>
 <div align="right">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="80" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="100" alt="Coding GIF" />
 </div>
   
 ---
