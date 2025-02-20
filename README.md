@@ -19,8 +19,8 @@ I love crafting modern, scalable, and efficient web and mobile applications. Pas
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FarouqKhaled17&show_icons=true&count_private=true&theme=radical" height="150" alt="GitHub stats" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarouqKhaled17&theme=radical" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarouqKhaled17&layout=compact&theme=radical" height="150" alt="Top Languages" /> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarouqKhaled17&theme=radical" height="150" alt="GitHub Streak" />-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarouqKhaled17&layout=compact&theme=radical" height="150" alt="Top Languages" /> 
 </div>
 
 ---
