@@ -1,6 +1,6 @@
-# Hey there! 👋 I'm Farouk Khaled
+# Hey there! I'm Farouk Khaled
 
-🚀 **Full-Stack Developer | MERN | React Native | Java**
+**Full-Stack Developer | MERN | React Native | Java**
 
 I love crafting modern, scalable, and efficient web and mobile applications. Passionate about clean code, performance optimization, and exploring the latest technologies to build seamless digital experiences.
 
