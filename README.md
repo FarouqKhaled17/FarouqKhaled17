@@ -1,6 +1,6 @@
 # Hey there! I'm Farouk Khaled
 
-**Full-Stack Developer | MERN | React Native | Java | Ruby On Rails**
+**Full-Stack Developer | MERN | Spring Boot | React Native | Ruby On Rails**
 
 I love crafting modern, scalable, and efficient web and mobile applications. Passionate about clean code, performance optimization, and exploring the latest technologies to build seamless digital experiences.
 
@@ -8,7 +8,7 @@ I love crafting modern, scalable, and efficient web and mobile applications. Pas
 
 ### 🛠️ Tech Stack & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,java,spring,html,css,bootstrap,tailwind,git,github,docker,materialui,c,cpp,rails" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,java,spring,html,css,bootstrap,tailwind,git,github,docker,kubernetes,githubactions,materialui,c,cpp,rails" />
 </div>
 <div align="right">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="100" alt="Coding GIF" />
